@@ -1,18 +1,4 @@
 /*
-Author: Aoun Hussain
-Class: ECE 6122-A
-Last Date Modified: Mon, Dec 6, 2021
-Description: This is the main source file for the solution of Final Project.
-             Uses std:thread for multi-threading and displaying the simulation
-             of UAVs on the football field and towards the sphere at (0, 0, 50)
-
-Special Note: The CMAKE file with all needed libraries is attached. A demo video is also submitted
-              for grading as the code may not compile on PACE or local computer due to library
-              and compatibility issues.
-*/
-
-
-/*
  References:
     https://solarianprogrammer.com/2018/11/19/cpp-reading-writing-bmp-images/
     https://thispointer.com//c11-multithreading-part-4-data-sharing-and-race-conditions/
